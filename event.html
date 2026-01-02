@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>EVENT SCHEDULE</h1>
+    <table border="10" height="200" width="400">
+        <tr>
+            <th style="text-align: center; vertical-align: middle;">Time</th>
+            <th style="text-align: center; vertical-align: middle;">Activity</th>
+            <th style="text-align: center; vertical-align: middle;">Venue</th>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">10:00 AM</td>
+            <td style="text-align: center; vertical-align: middle;">code utsav</td>
+            <td style="text-align: center; vertical-align: middle;">Hira hall</td>
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">12:00 AM</td>
+            <td style="text-align: center; vertical-align: middle;">Technocracy</td>
+            <td style="text-align: center; vertical-align: middle;">Main Building</td>
+
+        </tr>
+        <tr>
+            <td style="text-align: center; vertical-align: middle;">6:00 PM</td>
+            <td style="text-align: center; vertical-align: middle;">Aavartan</td>
+            <td style="text-align: center; vertical-align: middle;">NIT raipur</td>
+        </tr>
+    </table>
+    <br>
+    <h2>REGISTRATION FORM</h2>
+    <form action="action.php">
+           <label for="1">Name:<br>
+           <input type="text" id="1" placeholder="name"><br><br>
+           </label>
+           <label for="2">Email_ID:<br>
+            <input type="email" id="'2" placeholder="email_id"><br><br>
+           </label>
+            <label for="3">Number:<br>
+            <input type="number" id="'3" placeholder="_number"><br><br>
+           </label>
+            <label for="4">Date:<br>
+            <input type="date" id="'4" placeholder="dd/mm/yyyy"><br><br>
+           </label>
+            <label for="5">In which semester are you?<br>
+            
+            <input type="radio" id="5" name="semester"          value="1st-2nd sem"> 1st–2nd sem
+            </label>
+            <br>
+            <label for="6">
+            <input type="radio" id="6" name="semester"          value="3rd-4th sem"> 3rd–4th sem
+            </label>
+            <br>
+            <label for="7">
+            <input type="radio" id="7" name="semester"          value="5th-8th sem"> 5th–8th sem</label><br><br>
+            <label for="8">In which department do you belong to?            </label><br>
+            <label for="8">
+            <input type="checkbox" id="8" name="branch[]"           value="CS,IT,ECE">CS, IT, ECE</label><br>
+            <label for="9">
+            <input type="checkbox" id="9" name="branch[]"           value="EE,MECH,CIVIL">EE, MECH, CIVIL</label><br>
+            <label for="10">
+            <input type="checkbox" id="10" name="branch[]"          value="META,BIO-TECH,BIO-MED">META, BIO-TECH,     BIO-MED</label><br><br>
+            <label for="feedback">Give feedback</label><br>
+            <textarea name="feedback" id="feedback" placeholder="comments">
+            </textarea><br><br>
+            <input type="submit" value="submit">
+
+
+    </form>
+    
+
+</body>
+</html>
