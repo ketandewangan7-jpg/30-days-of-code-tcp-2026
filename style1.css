@@ -1,0 +1,90 @@
+body {
+    background-color: #d3d9db;   
+    border-radius:5px;
+}
+.header {
+    color:aqua;
+    background-color: black;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    border-radius:5px;
+    padding:10px;
+}
+.nav-links a {
+    color: rgb(170, 213, 28);
+    font-size: 20px;
+    font-weight: bold;
+    border-radius:20px;
+}
+
+a:hover {
+    color: #a10c0c;
+    text-decoration: underline;
+}
+.hero {
+    color:#0c54a1;
+    margin-top: 60px;
+    opacity: 0;
+    animation: fadeIn 3s ease forwards;
+    border-radius:20px;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.features {
+    display: flex;
+    gap: 40px;
+    padding: 40px;
+    color:#3a0202;
+    background-color: bisque;
+}
+
+.features article {
+    background: white;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius:20px;
+}
+
+.features article:hover {
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    border-radius:20px;
+}
+.pricing {
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    padding: 50px;
+    background: #9f8686;
+    transition: 0.3s;
+    border-radius:20px;
+}
+.price-card {
+    background: white;
+    text-align: center;
+    width:250px;
+    border-radius:20px;
+    color:#670ba0;
+}
+.price-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    border-radius:20px;
+}
+.footer{
+    color:#3a0202;
+    background-color:rgb(209, 224, 248);
+    padding:20px;
+    border: 1px solid #460404;
+    border-radius:20px;
+}
+
