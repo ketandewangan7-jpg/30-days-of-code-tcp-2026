@@ -10,6 +10,9 @@
 # DAY 3
 <img width="1394" height="907" alt="{630157A8-E502-4A8B-85A6-6963BFF5ED6B}" src="https://github.com/user-attachments/assets/6622b59b-6d5e-4a01-a9f4-5ab73fd18fea" />
 <img width="1540" height="911" alt="{0B1539EF-3C8C-492D-9234-EBBFD8F82067}" src="https://github.com/user-attachments/assets/93d40100-96e0-4124-9ea6-4efd88d8e202" />
+# DAY 4
+<img width="1902" height="964" alt="{4ED0E484-7295-4156-8D05-E586CC114AE8}" src="https://github.com/user-attachments/assets/0f51a031-8859-4001-8b65-d48796e65dba" />
+
 
 
 
