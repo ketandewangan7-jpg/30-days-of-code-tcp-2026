@@ -12,6 +12,13 @@
 <img width="1540" height="911" alt="{0B1539EF-3C8C-492D-9234-EBBFD8F82067}" src="https://github.com/user-attachments/assets/93d40100-96e0-4124-9ea6-4efd88d8e202" />
 # DAY 4
 <img width="1902" height="964" alt="{4ED0E484-7295-4156-8D05-E586CC114AE8}" src="https://github.com/user-attachments/assets/0f51a031-8859-4001-8b65-d48796e65dba" />
+# DAY 5
+1.Starting of the game= <img width="1813" height="958" alt="{F184F6AE-2A64-403C-B495-28EEA7B6E533}" src="https://github.com/user-attachments/assets/1a8567d4-7837-4fc1-997f-0b4ec7a4e3a6" />
+2. winner part= <img width="862" height="913" alt="{AED50C75-A28E-4581-B46E-B86F8CFB81F3}" src="https://github.com/user-attachments/assets/96ba1695-f922-4329-90b1-8eed0be61da6" />
+3. draw part= <img width="808" height="901" alt="{52428C41-CA86-40A3-9E64-5630FBFC48F2}" src="https://github.com/user-attachments/assets/b014c557-32a1-4d7d-9543-2c1cd6adea37" />
+
+
+
 
 
 
