@@ -1,0 +1,50 @@
+/* Page style */
+body {
+    background-color: #548687;
+    text-align: center;
+}
+
+/* Center container */
+.container {
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+}
+
+/* Game board */
+.game {
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.box {
+    height: 18vmin;
+    width: 18vmin;
+    border-radius: 10px;
+    font-size: 30px;
+    background-color: bisque;
+    color: black;
+}
+#reset-btn,
+#new-btn {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 8px;
+    margin-top: 10px;
+}
+.msg-container {
+    background-color: #180a46;
+    color: white;
+    font-size: 24px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+}
+.hide {
+    display: none;
+}
