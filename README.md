@@ -16,6 +16,13 @@
 1.Starting of the game= <img width="1813" height="958" alt="{F184F6AE-2A64-403C-B495-28EEA7B6E533}" src="https://github.com/user-attachments/assets/1a8567d4-7837-4fc1-997f-0b4ec7a4e3a6" />
 2. winner part= <img width="862" height="913" alt="{AED50C75-A28E-4581-B46E-B86F8CFB81F3}" src="https://github.com/user-attachments/assets/96ba1695-f922-4329-90b1-8eed0be61da6" />
 3. draw part= <img width="808" height="901" alt="{52428C41-CA86-40A3-9E64-5630FBFC48F2}" src="https://github.com/user-attachments/assets/b014c557-32a1-4d7d-9543-2c1cd6adea37" />
+# DAY 6
+1. question- <img width="1920" height="1080" alt="{B0268931-DCD3-4255-B075-7DD05C649977}" src="https://github.com/user-attachments/assets/e418738b-abe1-4645-ab42-0877e401ed1a" />
+2. correct option-<img width="1920" height="1080" alt="{7775613C-A3C2-4E39-8BA2-E02C94918ED6}" src="https://github.com/user-attachments/assets/5b5c45bd-3a6a-4d61-a18d-db978c0664c2" />
+3. both page together-![Uploading {CE0E4D6E-91AB-4393-9641-F73B6B9F5336}.png…]()
+
+
+
 
 
 
