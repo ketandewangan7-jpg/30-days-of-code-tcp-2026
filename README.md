@@ -20,6 +20,9 @@
 1. question- <img width="1920" height="1080" alt="{B0268931-DCD3-4255-B075-7DD05C649977}" src="https://github.com/user-attachments/assets/e418738b-abe1-4645-ab42-0877e401ed1a" />
 2. correct option-<img width="1920" height="1080" alt="{7775613C-A3C2-4E39-8BA2-E02C94918ED6}" src="https://github.com/user-attachments/assets/5b5c45bd-3a6a-4d61-a18d-db978c0664c2" />
 3. both page together-<img width="1912" height="926" alt="{09C3F60B-95B7-41E4-9A05-0B7B9C2F327E}" src="https://github.com/user-attachments/assets/1d4b17c1-d736-44a3-bddf-f229fbda3758" />
+# DAY 7
+leetcode 3079 solution - <img width="1920" height="1080" alt="{1BF833AD-963C-4A14-B2AD-2F56B97226B6}" src="https://github.com/user-attachments/assets/6eaa9479-c3fb-47c1-9760-2063ea824854" />
+
  
 
 
