@@ -22,6 +22,12 @@
 3. both page together-<img width="1912" height="926" alt="{09C3F60B-95B7-41E4-9A05-0B7B9C2F327E}" src="https://github.com/user-attachments/assets/1d4b17c1-d736-44a3-bddf-f229fbda3758" />
 # DAY 7
 leetcode 3079 solution - <img width="1920" height="1080" alt="{1BF833AD-963C-4A14-B2AD-2F56B97226B6}" src="https://github.com/user-attachments/assets/6eaa9479-c3fb-47c1-9760-2063ea824854" />
+# DAY 8
+sorting method = <img width="1608" height="967" alt="{3B0D2A68-8B1F-4C2D-A561-9D3D04D79172}" src="https://github.com/user-attachments/assets/414551f1-c791-4df0-82fe-4cde2194d145" />
+
+mappping method = <img width="1768" height="899" alt="{024F7FD8-C116-4C0F-BC34-0176934045EF}" src="https://github.com/user-attachments/assets/82e2b925-e56b-4a9d-861e-b0a5ee20a897" />
+
+
 
  
 
