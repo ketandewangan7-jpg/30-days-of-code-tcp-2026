@@ -26,6 +26,9 @@ leetcode 3079 solution - <img width="1920" height="1080" alt="{1BF833AD-963C-4A1
 sorting method = <img width="1608" height="967" alt="{3B0D2A68-8B1F-4C2D-A561-9D3D04D79172}" src="https://github.com/user-attachments/assets/414551f1-c791-4df0-82fe-4cde2194d145" />
 
 mappping method = <img width="1768" height="899" alt="{024F7FD8-C116-4C0F-BC34-0176934045EF}" src="https://github.com/user-attachments/assets/82e2b925-e56b-4a9d-861e-b0a5ee20a897" />
+# DAY 8 
+leetcode 1903 solution - <img width="1920" height="1080" alt="{61E6591A-08AF-4FB7-8E55-D101941516F6}" src="https://github.com/user-attachments/assets/eb6718ff-1c41-4e13-bdd2-6a63bb9a146d" />
+
 
 
 
