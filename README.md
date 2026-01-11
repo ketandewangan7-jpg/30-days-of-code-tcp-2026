@@ -26,10 +26,14 @@ leetcode 3079 solution - <img width="1920" height="1080" alt="{1BF833AD-963C-4A1
 sorting method = <img width="1608" height="967" alt="{3B0D2A68-8B1F-4C2D-A561-9D3D04D79172}" src="https://github.com/user-attachments/assets/414551f1-c791-4df0-82fe-4cde2194d145" />
 
 mappping method = <img width="1768" height="899" alt="{024F7FD8-C116-4C0F-BC34-0176934045EF}" src="https://github.com/user-attachments/assets/82e2b925-e56b-4a9d-861e-b0a5ee20a897" />
-# DAY 8 
-leetcode 1903 solution - <img width="1920" height="1080" alt="{61E6591A-08AF-4FB7-8E55-D101941516F6}" src="https://github.com/user-attachments/assets/eb6718ff-1c41-4e13-bdd2-6a63bb9a146d" />
 # DAY 9
+leetcode 1903 solution - <img width="1920" height="1080" alt="{61E6591A-08AF-4FB7-8E55-D101941516F6}" src="https://github.com/user-attachments/assets/eb6718ff-1c41-4e13-bdd2-6a63bb9a146d" />
+# DAY 10
 gfg question Sort 0s, 1s and 2s - <img width="1885" height="939" alt="{705372D0-948D-4772-8737-9631330227E8}" src="https://github.com/user-attachments/assets/e92c1cf9-9d90-4acb-9d9d-5aa0f3e2e435" />
+# DAY 11 
+gfg question merge sort - <img width="1920" height="972" alt="{8FB846B2-C00F-41C4-BCE9-96D4AF23C1A6}" src="https://github.com/user-attachments/assets/fd735240-2c98-4fea-ad51-c359c8349298" />
+
+
 
 
 
