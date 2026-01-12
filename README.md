@@ -34,6 +34,8 @@ gfg question Sort 0s, 1s and 2s - <img width="1885" height="939" alt="{705372D0-
 gfg question merge sort - <img width="1920" height="972" alt="{8FB846B2-C00F-41C4-BCE9-96D4AF23C1A6}" src="https://github.com/user-attachments/assets/fd735240-2c98-4fea-ad51-c359c8349298" />
 # DAY 12 
 leetcode question 34 first and last occurence - <img width="1909" height="963" alt="{F11768C2-13CD-48DA-8063-179BC3957545}" src="https://github.com/user-attachments/assets/ff8ed951-5284-490f-815c-85bc76954640" />
+# DAY 13 
+leetcode question 875 koko eating bananas - <img width="1920" height="981" alt="{F781A5B7-A7B0-49CB-9FE3-DBA89F2BF5F5}" src="https://github.com/user-attachments/assets/28102eb3-fa16-4be0-8908-be4e37faf145" />
 
 
 
