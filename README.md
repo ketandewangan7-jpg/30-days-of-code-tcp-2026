@@ -32,6 +32,9 @@ leetcode 1903 solution - <img width="1920" height="1080" alt="{61E6591A-08AF-4FB
 gfg question Sort 0s, 1s and 2s - <img width="1885" height="939" alt="{705372D0-948D-4772-8737-9631330227E8}" src="https://github.com/user-attachments/assets/e92c1cf9-9d90-4acb-9d9d-5aa0f3e2e435" />
 # DAY 11 
 gfg question merge sort - <img width="1920" height="972" alt="{8FB846B2-C00F-41C4-BCE9-96D4AF23C1A6}" src="https://github.com/user-attachments/assets/fd735240-2c98-4fea-ad51-c359c8349298" />
+# DAY 12 
+leetcode question 34 first and last occurence - <img width="1909" height="963" alt="{F11768C2-13CD-48DA-8063-179BC3957545}" src="https://github.com/user-attachments/assets/ff8ed951-5284-490f-815c-85bc76954640" />
+
 
 
 
