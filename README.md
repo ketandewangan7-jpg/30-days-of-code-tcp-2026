@@ -36,6 +36,8 @@ gfg question merge sort - <img width="1920" height="972" alt="{8FB846B2-C00F-41C
 leetcode question 34 first and last occurence - <img width="1909" height="963" alt="{F11768C2-13CD-48DA-8063-179BC3957545}" src="https://github.com/user-attachments/assets/ff8ed951-5284-490f-815c-85bc76954640" />
 # DAY 13 
 leetcode question 875 koko eating bananas - <img width="1920" height="981" alt="{F781A5B7-A7B0-49CB-9FE3-DBA89F2BF5F5}" src="https://github.com/user-attachments/assets/28102eb3-fa16-4be0-8908-be4e37faf145" />
+# DAY 14
+gfg question number of 1bits- <img width="1920" height="1012" alt="{9C6E4A02-3356-4A50-940E-8F3B3EF90339}" src="https://github.com/user-attachments/assets/ee9abc18-b748-4e2b-a972-53e018bfe33a" />
 
 
 
