@@ -42,7 +42,8 @@ gfg question number of 1bits- <img width="1920" height="1012" alt="{9C6E4A02-335
 leetocde question 1201 ugly number 3 - <img width="1920" height="1010" alt="{1DBB8D83-0EA0-4A9A-BFAA-6D81A4CCFBFD}" src="https://github.com/user-attachments/assets/88c275fc-cb67-4874-aa10-6220ddfcf4b0" />
 # DAY 16 
 leetcode question 135 candy - <img width="1920" height="999" alt="{BB265002-205B-4856-A311-08110E69A89C}" src="https://github.com/user-attachments/assets/65236edf-4dc3-4b01-86f4-51be45be8fbf" />
-
+# DAY 17 
+leetocde question 1922 count good numbers - <img width="1899" height="956" alt="{F19B0657-9118-4B66-9DF0-6BFF26F20790}" src="https://github.com/user-attachments/assets/eeb6109c-26b1-458a-ba56-656fcc192e0d" />
 
 
 
