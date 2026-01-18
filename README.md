@@ -44,7 +44,10 @@ leetocde question 1201 ugly number 3 - <img width="1920" height="1010" alt="{1DB
 leetcode question 135 candy - <img width="1920" height="999" alt="{BB265002-205B-4856-A311-08110E69A89C}" src="https://github.com/user-attachments/assets/65236edf-4dc3-4b01-86f4-51be45be8fbf" />
 # DAY 17 
 leetocde question 1922 count good numbers - <img width="1899" height="956" alt="{F19B0657-9118-4B66-9DF0-6BFF26F20790}" src="https://github.com/user-attachments/assets/eeb6109c-26b1-458a-ba56-656fcc192e0d" />
-
+# DAY 18 
+leetcode question 51 N-queens - 1)<img width="1920" height="1015" alt="{E16CC395-9946-4529-8A59-CAE89A917F0C}" src="https://github.com/user-attachments/assets/2e677992-fdea-4489-a329-2bff908f9d22" />
+                                2)<img width="1920" height="1009" alt="{5D7D74A7-F611-4BBF-B0BD-F088E561FA4A}" src="https://github.com/user-attachments/assets/20ec0125-cf16-47f5-92bf-3a809e17dce6" />
+ 
 
 
 
