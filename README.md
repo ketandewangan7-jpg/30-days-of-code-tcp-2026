@@ -47,6 +47,9 @@ leetocde question 1922 count good numbers - <img width="1899" height="956" alt="
 # DAY 18 
 leetcode question 51 N-queens - 1)<img width="1920" height="1015" alt="{E16CC395-9946-4529-8A59-CAE89A917F0C}" src="https://github.com/user-attachments/assets/2e677992-fdea-4489-a329-2bff908f9d22" />
                                 2)<img width="1920" height="1009" alt="{5D7D74A7-F611-4BBF-B0BD-F088E561FA4A}" src="https://github.com/user-attachments/assets/20ec0125-cf16-47f5-92bf-3a809e17dce6" />
+# DAY 19
+gfg question add 1 to LL - <img width="1920" height="1016" alt="{DC8FACEC-3B88-40B8-B037-B2872F51A1CE}" src="https://github.com/user-attachments/assets/272c067c-1f92-4a2f-b18d-b25540ffa40b" />
+
  
 
 
