@@ -49,6 +49,9 @@ leetcode question 51 N-queens - 1)<img width="1920" height="1015" alt="{E16CC395
                                 2)<img width="1920" height="1009" alt="{5D7D74A7-F611-4BBF-B0BD-F088E561FA4A}" src="https://github.com/user-attachments/assets/20ec0125-cf16-47f5-92bf-3a809e17dce6" />
 # DAY 19
 gfg question add 1 to LL - <img width="1920" height="1016" alt="{DC8FACEC-3B88-40B8-B037-B2872F51A1CE}" src="https://github.com/user-attachments/assets/272c067c-1f92-4a2f-b18d-b25540ffa40b" />
+# DAY 20
+leetocde question 328. Odd Even Linked List - <img width="1920" height="1017" alt="{77EE05BB-D29A-4146-A3B6-14FC926CD93F}" src="https://github.com/user-attachments/assets/1365bf9a-6efc-46e9-8c7d-cd2da6da47ce" />
+
 
  
 
