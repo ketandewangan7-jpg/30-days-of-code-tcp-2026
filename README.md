@@ -54,6 +54,8 @@ leetocde question 328. Odd Even Linked List - <img width="1920" height="1017" al
 # DAY 21
 leetocde question 496 nextgreaterelement1 - <img width="1920" height="1019" alt="{C79830DF-812B-4483-BA67-A04C4F984994}" src="https://github.com/user-attachments/assets/02e6f940-aad2-445f-a071-da4dbbc65f64" />
 
+# DAY 22 
+gfg question set 5 queue - <img width="1920" height="1011" alt="{A0F6A01A-917E-4662-91F0-CD7C8423FB4A}" src="https://github.com/user-attachments/assets/2ed77131-5baf-4fbb-b7a7-6983e4737c63" />
 
  
 
