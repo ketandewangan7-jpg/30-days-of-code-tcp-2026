@@ -57,8 +57,12 @@ leetocde question 496 nextgreaterelement1 - <img width="1920" height="1019" alt=
 # DAY 22 
 gfg question set 5 queue - <img width="1920" height="1011" alt="{A0F6A01A-917E-4662-91F0-CD7C8423FB4A}" src="https://github.com/user-attachments/assets/2ed77131-5baf-4fbb-b7a7-6983e4737c63" />
 
-# DAY 23 leetocde question 451 sort character by frequency - <img width="1920" height="1080" alt="{CFB2380B-B598-47EF-B4A2-F47C5EAC0177}" src="https://github.com/user-attachments/assets/c1a08a0f-52a4-4013-b427-7caf10174e33" />
-# DAY 24 codeforces question 1725B - <img width="1512" height="310" alt="{0CE02020-8EE3-403F-BC0C-2A5E3A639AC1}" src="https://github.com/user-attachments/assets/127e11a3-3bb2-4441-aa71-ebbb5c99ee4f" />
+# DAY 23 
+leetocde question 451 sort character by frequency - <img width="1920" height="1080" alt="{CFB2380B-B598-47EF-B4A2-F47C5EAC0177}" src="https://github.com/user-attachments/assets/c1a08a0f-52a4-4013-b427-7caf10174e33" />
+# DAY 24 
+codeforces question 1725B - <img width="1512" height="310" alt="{0CE02020-8EE3-403F-BC0C-2A5E3A639AC1}" src="https://github.com/user-attachments/assets/127e11a3-3bb2-4441-aa71-ebbb5c99ee4f" />
+# DAY 25 
+codingninjas question tree traversal - <img width="1916" height="952" alt="{58BEA1A8-FDCF-4A13-AC90-3EAF7E708180}" src="https://github.com/user-attachments/assets/7329e10d-54ec-461f-83bd-adb202040e39" />
 
 
 
